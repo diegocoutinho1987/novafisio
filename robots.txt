@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novafisiopicos.com.br/sitemap.xml
